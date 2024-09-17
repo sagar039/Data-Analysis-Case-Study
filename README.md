@@ -196,9 +196,6 @@ It represents how much %Occupancy for the different cities.
 Insights
 1.Mumbai is having the highest percentage of Bookings compare to other cities 2.All the cities are having almost same succesfull booking percentage 3.eventhough weekdays are having highest bookings, but weekends are good for business 4.Luxary Category bookings are more rather than Business categories 5.GDS Exotica in Mumbai is having the higeshs bookings compare to other properties.. 6.GDS Palace property is having the best bookings among the other properties. 7.May is the best Month, in terms of Bookings and revenue. 8.Bookings for room classes and revenue are exactly same. 9.Mumbai city is contributing the highes revenue for the compnay. 10.GDS Exotica property is contributing the highest revenue compared to other properties. 11.Delhi city is having the highest occupancy rate.
 
-Dashboard:-
-![image](https://github.com/sagar039/Data-Analysis-Case-Study/assets/102663593/b98ed811-2950-4033-b870-7350d565c50e)
-
 
 
 
